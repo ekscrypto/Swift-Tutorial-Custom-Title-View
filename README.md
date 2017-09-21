@@ -5,6 +5,7 @@ Sample project in response to StackOverflow question https://stackoverflow.com/q
 - Xcode 9
 - Swift 4
 
-![iPhone6s simulator preview](https://github.com/ekscrypto/Swift-Tutorial-Custom-Title-View/blob/master/iPhone6s.png?raw=true)
-
 Unlicensed. Enjoy!
+
+![iPhone6s simulator preview](https://github.com/ekscrypto/Swift-Tutorial-Custom-Title-View/blob/master/iPhone6s.png?raw=true)
+![iPhoneX simulator preview](https://github.com/ekscrypto/Swift-Tutorial-Custom-Title-View/blob/master/iPhoneX.png?raw=true)
