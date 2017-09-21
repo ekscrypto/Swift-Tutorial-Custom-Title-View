@@ -7,5 +7,8 @@ Sample project in response to StackOverflow question https://stackoverflow.com/q
 
 Unlicensed. Enjoy!
 
+notes:
+- The custom view background was left white to better visualize its positioning, reader should probably edit the Xib file and set the background color to "Clear"
+
 ![iPhone6s simulator preview](https://github.com/ekscrypto/Swift-Tutorial-Custom-Title-View/blob/master/iPhone6s.png?raw=true)
 ![iPhoneX simulator preview](https://github.com/ekscrypto/Swift-Tutorial-Custom-Title-View/blob/master/iPhoneX.png?raw=true)
